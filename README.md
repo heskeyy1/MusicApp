@@ -23,7 +23,8 @@ Javascipt, Node.js, React, CSS, MongoDB, Firebase
 
 This project also includes:
 
-Admin panel to manage songs, albums, artists, users
-Filtering songs
-Page to create playlists
-Login with Google account
+- Admin panel to manage songs, albums, artists, users
+- Filtering songs
+- Page to create playlists
+- Login with Google account
+- Recommendation system
